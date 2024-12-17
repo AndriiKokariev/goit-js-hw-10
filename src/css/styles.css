@@ -94,3 +94,11 @@ button[data-start]:disabled {
   margin-left: auto;
   margin-right: auto;
 }
+
+legend {
+  margin-right: auto;
+}
+
+.form-btn {
+  width: 246px;
+}
