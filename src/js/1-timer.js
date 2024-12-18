@@ -81,6 +81,7 @@ function startCountdown() {
         message: 'Countdown complete!',
         position: 'topRight',
       });
+      datePicker.disabled = false;
       return;
     }
 
